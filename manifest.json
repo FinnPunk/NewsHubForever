@@ -1,0 +1,19 @@
+{
+    "name": "NewsHub - Персональный агрегатор новостей",
+    "short_name": "NewsHub",
+    "description": "Персональный агрегатор новостей и вакансий с AI суммаризацией",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#4A90E2",
+    "background_color": "#F8F9FA",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "categories": ["news", "productivity", "business"],
+    "lang": "ru"
+}
